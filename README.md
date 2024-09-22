@@ -14,13 +14,12 @@ Install the following softwares.
 3. Go to Display directory and open stringWithPeriod.ino file using another window of Arduino IDE
 4. Then go to library manager of Arduino IDE and install following:
 ```bash
-            AsyncTimer.h - by Aasim-A
+            		AsyncTimer.h - by Aasim-A
 			SevSeg.h - by Dean Reading
 			ArduinoHttpClient - by Arduino
-			AsyncTCP - by dvarrel
 ```
 			
-5. Go to Sketch menu and include ESPAsyncWebServer.zip that I have uploaded to this repo as a .zip library.
+5. Go to Sketch menu and include ESPAsyncWebServer.zip and AsyncTCP.zip that I have uploaded to this repo as  .zip libraries.
 6. Go to Boards manager and install esp32 - by expressif
 7. Go to preferences through the file menu and add the following as additional board manager urls(Use a comma to seperate the two. Do not leave blanks)
 ```bash
