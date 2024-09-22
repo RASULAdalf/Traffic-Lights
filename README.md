@@ -19,7 +19,7 @@ Install the following softwares.
 			ArduinoHttpClient - by Arduino
 ```
 			
-5. Go to Sketch menu and include ESPAsyncWebServer.zip and AsyncTCP.zip that I have uploaded to this repo as  .zip libraries.
+5. Go to Sketch menu and include ESPAsyncWebServer.zip and AsyncTCP.zip that I have uploaded to this repo as  .zip libraries (Rename those .zip files excluding the '-master' suffix before setting them up as libraries).
 6. Go to Boards manager and install esp32 - by expressif
 7. Go to preferences through the file menu and add the following as additional board manager urls(Use a comma to seperate the two. Do not leave blanks)
 ```bash
