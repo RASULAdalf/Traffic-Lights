@@ -11,8 +11,5 @@ Install the following softwares.
 
 1. Get a clone of this repository.
 2. Go to CameraWebServer direcotory and open CameraWebServer.ino file using Arduino IDE
-3. Go to Display directory and open stringWithPeriod.ino file using another window of Arduino IDE4. Then go to library manager of Arduino IDE and install following:
-			AsyncTimer.h - by Aasim-A
-			SevSeg.h - by Dean Reading
-			ArduinoHttpClient - by Arduino
-			AsyncTCP - by dvarrel
+3. Go to Display directory and open stringWithPeriod.ino file using another window of Arduino IDE
+			h
